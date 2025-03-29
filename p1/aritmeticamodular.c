@@ -8,7 +8,7 @@ int main() {
     Divisao = (ValorA - ValorB) / ValorM;
     if (Resto != 0)
     {
-        printf("Nao\n");
+        printf("Nao!\n");
     }
     else
     {
